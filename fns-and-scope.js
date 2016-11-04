@@ -45,7 +45,7 @@ function welcome() {
 //What is the difference between arguments and parameters?
 
   //Answer Here
-
+console.log("The parameter is the variable created in the function definition, while arguments are the values that are actually passed to the function");
 
 //////////////////PROBLEM 5////////////////////
 
@@ -53,9 +53,9 @@ function welcome() {
 
 //What are all the falsy values in JavaScript and how do you check if something is falsy?
 
-
   //Answer Here
-
+console.log("The Falsey values are [undefined, null, NaN, 0, \"\", false]");
+console.log("You can check if something is falsey by using '==' in an evaluation statement");
 
 
 //////////////////PROBLEM 6////////////////////
